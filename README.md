@@ -16,7 +16,13 @@ software engineer from tunisia. i build things at work and fix bugs in open sour
 
 ## what i work with
 
-ai agents, ai toolkits and skills, golang, kubernetes
+- ai agents and agentic systems
+- mcp servers and clients, tool use and function calling
+- agent skills, prompts and structured outputs
+- multi-agent orchestration
+- rag, evals and agent observability
+- claude agent sdk, langgraph, crewai
+- golang, kubernetes
 
 ## find me
 
