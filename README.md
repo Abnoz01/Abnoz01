@@ -16,7 +16,7 @@ software engineer from tunisia. i build things at work and fix bugs in open sour
 
 ## what i work with
 
-typescript, go, node.js, react, playwright, postgres, grafana
+ai agents, ai toolkits and skills, golang, kubernetes
 
 ## find me
 
